@@ -1,12 +1,12 @@
- NAME
+# NAME
 
 Exequiel Fernandez Cueto - OpenSource Enthusiastic SysAdmin. - Compiled in 1983 -   
 
- SYNOPSIS
+# SYNOPSIS
 
 Curriculum Vitae --lang=[es|en] [options]
 
- DESCRIPTION
+# DESCRIPTION
  
 In my life and in my work I always try to plan ahead, test and implement. After implementation, always try to improve what I have done and obtain.
 As an athlete, I need to train hard and get the best result in competition, and in my professional experience it's the same. Work hard every day,
@@ -15,7 +15,7 @@ I'm passionate about OpenSource solutions. Investigate new technologies / soluti
 I am very enthusiastic and committed to maintain quality and efficiency.
 I like to commit myself to the things I do, instead of just being involved. When you love what you do, you give yourself entirely to it.
 
- EXPERIENCE
+# EXPERIENCE
  
 --December 2020 - Present (Amazon Web Services)
 Cloud Infrastructure Architect
@@ -114,7 +114,7 @@ Information Security Assistant
 - Shell Scripting.
 - Use of ticketing applications: Tivoli (TSD)
 
- EDUCATION
+# EDUCATION
 
 Seminars and trainings completed.
 
@@ -144,7 +144,7 @@ SKILLS
 - Apache WebServers (PHP and Modules)
 - Email Servers
 
- Hobbies
+# Hobbies
  
 Triathlete  
 - 2019 - Ironman 70.3 Buenos Aires Finisher
@@ -156,7 +156,7 @@ Triathlete
 - 2016 - Ironman 70.3 Buenos Aires Finisher
 
 
- AUTHOR
+# AUTHOR
 
 Exequiel Fernandez Cueto - Argentina - Buenos Aires
  Email exequiel@fernandezcueto.com.ar
